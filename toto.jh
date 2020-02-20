@@ -1,0 +1,3 @@
+entity Toto {
+	name String
+}
